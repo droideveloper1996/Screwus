@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973996763499",
+    "firebase_url": "https://screwus-9f400.firebaseio.com",
+    "project_id": "screwus-9f400",
+    "storage_bucket": "screwus-9f400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973996763499:android:fc6cef40b25bbeac",
+        "android_client_info": {
+          "package_name": "com.capiyoo.screwus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973996763499-2gvkshu2ujfkqbv011dj12t2u0bpq75l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capiyoo.screwus",
+            "certificate_hash": "5ea7e15bb04ec3afd458bd83ff64d4feb82576a7"
+          }
+        },
+        {
+          "client_id": "973996763499-lkvm711ijlhb2hak2p1tk3ifstbsvud5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2yi5g0MUIL-6vGjS5B9cHXhfciugBepE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973996763499-lkvm711ijlhb2hak2p1tk3ifstbsvud5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

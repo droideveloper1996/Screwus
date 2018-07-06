@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="top|center"
+        android:id="@+id/profpic"
+        app:civ_border_width="1dp"
+        app:civ_border_color="#FF000000"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/user"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="#252525"
+        android:id="@+id/nameTextView"
+        android:layout_marginTop="4dp"
+        android:layout_height="wrap_content"
+        android:text="Abhishek Kushwaha"/>
+
+
+</LinearLayout>

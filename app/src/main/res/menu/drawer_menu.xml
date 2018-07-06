@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Profile"
+        android:id="@+id/action_profile"
+        />
+
+    <item
+        android:title="Notification"
+        android:id="@+id/action_notification"
+
+        />
+
+
+    <item
+        android:title="Feedback"
+        android:icon="@drawable/checkbox"
+        android:id="@+id/action_feedback"
+        />
+
+    <item
+        android:title="Logout"
+        android:id="@+id/action_logout"
+        />
+
+    <item
+        android:title="Help &amp; Feedback"
+        android:id="@+id/action_help_feedback"
+        />
+</menu>

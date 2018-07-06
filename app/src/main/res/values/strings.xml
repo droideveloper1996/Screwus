@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screwus</string>
+    <string name="True">true</string>
+    <string name="False">false</string>
+</resources>
